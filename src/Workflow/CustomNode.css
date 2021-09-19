@@ -1,0 +1,19 @@
+.custom__node{
+    color: white;
+    padding: 5px 8px;
+    border-radius: 10px;
+    min-width: 100px;
+}
+.node__head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center ;
+}
+.node__head h1{
+    font-size: 20px;
+}
+.custom__node__date{
+    margin: 0px;
+    font-size: small;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.workflow{
+    height: 90vh;
+    width: 100vw;
+    background-color: whitesmoke;
+    padding-top: 10px;
+}
+.workflow__createaction{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    z-index: 5;
+}
